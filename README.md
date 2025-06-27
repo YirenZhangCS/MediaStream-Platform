@@ -1,5 +1,5 @@
-# Django Netflix Clone
-This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library to handle data from TMDB API.
+# MediaStream Platform
+A full-stack video streaming platform using Django and PostgreSQL, implementing user authentication, secure media access, and dynamic UI components with JavaScript and Bootstrap.
 
 ![](https://blog.farmerswife.com/hs-fs/hubfs/840_560.jpeg?width=1260&height=818&name=840_560.jpeg)
 
